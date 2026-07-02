@@ -37,13 +37,14 @@
 <p>&emsp;&emsp;专为研发场景打造的企业通讯工具，支持单人私聊、多人群组、高清语音、视频远程会议、投屏等功能，支持直接发送代码片段、项目文档、云盘文件，文件传输防护，并且将完整聊天记录永久留存可审计。</p>
 <div align="center">
 <img src="./assets/im.png" width="680" alt="即时通讯">
-<p style="font-size:14px; color:#666;">联动项目、AI知识库的安全可控的研发团队文件存储工具</p>
+<p style="font-size:14px; color:#666;">面向研发团队安全高效安全的内部沟通工具</p>
 </div><br/>
-6. ThinkerFlow 思链 AI 智慧中台
-基于 RAG 检索增强的全平台 AI 赋能中心：
-兼容国内外主流大模型，支持本地私有化大模型接入部署
-AI 能力覆盖代码生成、文档总结、需求拆解、技术难题问答
-一键导入 Wiki、云盘文件，生成专属企业私有向量知识库
+6. 思链 AI 智慧中台
+<p>&emsp;&emsp;基于 RAG 检索增强的全平台 AI 赋能中心，兼容国内外主流大模型，支持本地私有化大模型接入部署，AI 能力覆盖代码生成、文档总结、需求拆解、技术难题问答，一键导入 Wiki、云盘文件，生成专属知识库。</p>
+<div align="center">
+<img src="./assets/silian.png" width="680" alt="AI知识库">
+<p style="font-size:14px; color:#666;">面向研发团队安全高效安全的内部沟通工具</p>
+</div><br/>
 🛡️ 双层全链路安全防护体系
 <div align="center">
 <img src="./assets/security-layer.png" width="650" alt="安全架构分层图">
