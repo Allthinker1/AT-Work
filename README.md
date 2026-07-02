@@ -1,21 +1,16 @@
 <div align="center">
 <h2 style="font-size:50px; font-weight:bold; color:#166fe5;">AT Work 一站式智能云研发平台</h2>
-</div>
-<div align="left">
-<!-- 将此处src替换为你仓库assets文件夹内的产品主图 -->
-<img src="./assets/main-banner.png" width="780" alt="AT Work 产品全景">
-<br>
-<span style="font-size:24px; font-weight:bold; color:#166fe5;">高效 · 安全 · 智能 · 一站式全链路云研发平台</span>
-<br>
-<span style="font-size:14px; color:#585858;">敖行客网络科技出品 | 支持企业私有化部署，数据自主可控</span>
-</div>
-🌟 项目简介
-AT Work 是敖行客网络科技自研的云原生一体化研发协作平台，覆盖软件研发完整生命周期。
-传统研发团队普遍存在工具零散、本地环境配置繁琐、代码文档资产难管控、团队知识无法沉淀、跨部门沟通成本高等痛点。AT Work 将 云 IDE、项目管理、知识库、共享云盘、企业即时通讯、AI 研发中台 六大能力整合为闭环协作体系，无需频繁切换多类工具，为开发、产品、测试、运维打造安全高效的 AI 研发工作空间。
-平台同时提供 SaaS 云端版本与独立私有化部署方案，企业可完整掌控内部数据；配套开放 API、Webhook 能力，可无缝对接企业现有 OA、运维、业务系统。
-🧩 六大核心功能模块
-1. Coding 云 IDE 编程空间
+</div><br/>
 <div align="center">
+<!-- 将此处src替换为你仓库assets文件夹内的产品主图 -->
+<img src="./assets/all.png" width="780" alt="AT Work 产品全景"><br/>
+<span style="font-size:14px; color:#585858;">高效 · 安全 · 智能 · 一站式全链路云研发平台&nbsp;&nbsp;|&nbsp;&nbsp;敖行客网络科技出品&nbsp;&nbsp;|&nbsp;&nbsp;支持企业私有化部署，数据自主可控</span>
+</div><br/>
+<strong>🌟 项目简介</strong><br/>
+<p>&emsp;&emsp;AT Work 是敖行客网络科技自研的云原生一体化研发协作平台，覆盖软件研发完整生命周期。传统研发团队普遍存在工具零散、本地环境配置繁琐、代码文档资产难管控、团队知识无法沉淀、跨部门沟通成本高等痛点。AT Work 将 云 IDE、项目管理、知识库、共享云盘、企业即时通讯、AI知识库六大能力整合为闭环协作体系，无需频繁切换多类工具，为开发、产品、测试、运维打造安全高效的 AI 研发工作空间。</p>
+<strong>🧩 六大核心功能模块</strong><br/>
+1. Coding 云 IDE 编程空间
+<div align="left">
 <img src="./assets/coding-ide.png" width="680" alt="云IDE开发界面">
 <p style="font-size:14px; color:#666;">5秒一键构建开发环境，兼容VSCode/IDEA操作习惯，内置十余款AI代码助手</p>
 </div>
