@@ -43,7 +43,7 @@
 <p>&emsp;&emsp;基于 RAG 检索增强的全平台 AI 赋能中心，兼容国内外主流大模型，支持本地私有化大模型接入部署，AI 能力覆盖代码生成、文档总结、需求拆解、技术难题问答，一键导入 Wiki、云盘文件，生成专属知识库。</p>
 <div align="center">
 <img src="./assets/silian.png" width="680" alt="AI知识库">
-<p style="font-size:14px; color:#666;">面向研发团队安全高效安全的内部沟通工具</p>
+<p style="font-size:14px; color:#666;">AI赋能研发、智能检索的专属知识库</p>
 </div><br/>
 🛡️ 双层全链路安全防护体系
 <div align="center">
