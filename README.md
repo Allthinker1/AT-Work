@@ -27,17 +27,18 @@
 <img src="./assets/wiki.png" width="680" alt="wiki知识库">
 <p style="font-size:14px; color:#666;">研发团队协同沉淀、安全可控的文档协作工具</p>
 </div><br/>
-4. Drawer 安全共享云盘<br/>
+4. Drawer 共享云盘<br/>
 <p>&emsp;&emsp;面向研发场景的团队集中文件存储，多维权限隔离,多端实时同步查看，支持主流格式在线预览，批量移动、下载、删除、归档，分级权限管控，杜绝内部文件越权访问，文件可一键关联至项目任务、AI知识库。</p>
 <div align="center">
-<img src="./assets/wiki.png" width="680" alt="wiki知识库">
-<p style="font-size:14px; color:#666;">研发团队协同沉淀、安全可控的文档协作工具</p>
+<img src="./assets/yunpan.png" width="680" alt="共享云盘">
+<p style="font-size:14px; color:#666;">联动项目、AI知识库的安全可控的研发团队文件存储工具</p>
 </div><br/>
-5. IM（嗷嗷）研发即时通讯
-专为研发场景打造的企业通讯工具：
-单人私聊、多人群组、高清语音 & 视频远程会议
-支持直接发送代码片段、项目文档、云盘文件
-涉密信息传输防护，完整聊天记录永久留存可审计
+5. IM（嗷嗷）即时通讯
+<p>&emsp;&emsp;专为研发场景打造的企业通讯工具，支持单人私聊、多人群组、高清语音、视频远程会议、投屏等功能，支持直接发送代码片段、项目文档、云盘文件，文件传输防护，并且将完整聊天记录永久留存可审计。</p>
+<div align="center">
+<img src="./assets/im.png" width="680" alt="即时通讯">
+<p style="font-size:14px; color:#666;">联动项目、AI知识库的安全可控的研发团队文件存储工具</p>
+</div><br/>
 6. ThinkerFlow 思链 AI 智慧中台
 基于 RAG 检索增强的全平台 AI 赋能中心：
 兼容国内外主流大模型，支持本地私有化大模型接入部署
