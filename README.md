@@ -1,14 +1,9 @@
 <div align="center">
 <h2 style="font-size:50px; font-weight:bold; color:#166fe5;">AT Work 一站式智能云研发平台</h2>
 </div><br/>
-<div align="center">
-<!-- 将此处src替换为你仓库assets文件夹内的产品主图 -->
-<div style="display: flex; gap: 10px;"><img src="./assets/all.png" width="500" height="245" alt="AT Work 产品全景"><img src="./assets/all1.png"  width="500" height="245" alt="AT Work 产品全景"></div><br/>
-<span style="font-size:14px; color:#585858;">高效 · 安全 · 智能 · 一站式全链路云研发平台&nbsp;&nbsp;|&nbsp;&nbsp;敖行客网络科技出品&nbsp;&nbsp;|&nbsp;&nbsp;支持企业私有化部署，数据自主可控</span>
-</div><br/>
 <strong>🌟 项目简介</strong><br/>
 <p>&emsp;&emsp;AT Work 是武汉敖行客网络科技有限公司自研的云原生一体化研发协作平台，覆盖软件研发完整生命周期。传统研发团队普遍存在工具零散、本地环境配置繁琐、代码文档资产难管控、团队知识无法沉淀、跨部门沟通成本高等痛点。AT Work 将 云 IDE、项目管理、知识库、共享云盘、企业即时通讯、AI知识库六大能力整合为闭环协作体系，无需频繁切换多类工具，为开发、产品、测试、运维打造安全高效的 AI 研发工作空间。</p>
-<strong>🧩 六大核心功能模块</strong><br/>
+<strong>🧩 核心功能模块</strong><br/>
 1. Coding 云 IDE 编程空间
 <p>&emsp;&emsp;基于浏览器的远程在线开发环境，完全兼容主流编辑器交互逻辑：Java、Python、Go、SpringBoot、Vue、React、C/C++、PHP 等12款主流开发语言与技术栈模板，秒级搭建开发环境，随时随地开始编码，CPU / 内存 / 磁盘资源可视化监控，算力弹性动态调配，数据全加密隔离存储 + 成员细粒度权限管控，网页、PC 客户端、手机APP多端数据互通。</p>
 <div align="center">
