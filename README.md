@@ -46,7 +46,7 @@
 <div align="center">
 <img src="./assets/team.png" width="680" alt="团队"> 
 </div><br/>
-8. 个人中心信息及密码设置
+8. 个人信息及密码设置
 <div align="center">
 <img src="./assets/gerenzhongxin.png" width="680" alt="个人中心"> 
 </div><br/>
