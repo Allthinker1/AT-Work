@@ -4,13 +4,11 @@
 <strong>🌟 项目简介</strong><br/>
 <p>&emsp;&emsp;AT Work 是武汉敖行客网络科技有限公司自研的云原生一体化研发协作平台，覆盖软件研发完整生命周期。传统研发团队普遍存在工具零散、本地环境配置繁琐、代码文档资产难管控、团队知识无法沉淀、跨部门沟通成本高等痛点。AT Work 将 云 IDE、项目管理、知识库、共享云盘、企业即时通讯、AI知识库六大能力整合为闭环协作体系，无需频繁切换多类工具，为开发、产品、测试、运维打造安全高效的 AI 研发工作空间。</p>
 <strong>🧩 核心功能模块</strong><br/>
-1.登录
-<p>&emsp;&emsp;登录与注册</p>
+1.登录与注册
 <div align="center">
 <img src="./assets/login.png" width="680"">
 </div><br/>
-2.首页
-<p>&emsp;&emsp;首页是整个平台的数据概览以及每个功能模块的快捷入口</p>
+2.首页是整个平台的数据概览以及每个功能模块的快捷入口
 <div align="center">
 <img src="./assets/shouye.png" width="680"">
 </div><br/>
@@ -44,13 +42,11 @@
 <img src="./assets/xiaoxi.png" width="680" alt="即时通讯"><img src="./assets/haoyou.png" width="680" alt="即时通讯"><img src="./assets/qunliao.png" width="680" alt="即时通讯"><img src="./assets/shoucang.png" width="680" alt="即时通讯">
 <p style="font-size:14px; color:#666;">面向研发团队安全高效安全的内部沟通工具</p>
 </div><br/>
-8. 团队
-<p>&emsp;&emsp;管理团队成员，设置权限</p>
+8. 团队成员管理，权限设置
 <div align="center">
 <img src="./assets/team.png" width="680" alt="团队"> 
 </div><br/>
-8. 个人中心
-<p>&emsp;&emsp;设置个人信息及账号密码</p>
+8. 个人中心信息及密码设置
 <div align="center">
 <img src="./assets/gerenzhongxin.png" width="680" alt="个人中心"> 
 </div><br/>
