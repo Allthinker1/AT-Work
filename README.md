@@ -18,12 +18,12 @@
 <div align="center">
 <img src="./assets/shouye.png" width="680"">
 </div><br/>
-3. Coding 云 IDE 编程空间
+3. Coding编程空间：随时随地编码 自动构建环境 支持跨平台与多语言云端协作开发
 <p>&emsp;&emsp;浏览器远程在线开发环境，兼容VSCode/IDEA主流编辑器，预置 12 套 Java/Python/Go/Vue 等全栈模板，秒级搭建开发环境。算力弹性调配，硬件资源可视化监控，数据加密隔离 + 精细化权限管理，网页、PC、手机多端同步编码。</p>
 <div align="center">
 <img src="./assets/coding.png" width="680""><img src="./assets/codingmoban.png" width="680""><img src="./assets/vscode.png" width="680""><img src="./assets/idea.png" width="680"">
 </div><br/>
-4. Task一站式项目全流程高效看板管理工具<br/>
+4. Task项目协作：一站式项目全流程高效看板管理工具<br/>
 <p>&emsp;&emsp;以可视化能力打通全流程，整合需求、迭代、缺陷管理与任务协同核心功能，让项目推进高效、透明且可控。统一收纳、分级排序需求，清晰对齐目标，避免遗漏与变更混乱，让需求落地有迹可循。规划迭代周期与任务范围，可视化进度追踪，把控版本节奏，保障项目按时高质量交付。实时同步任务状态，明确分工权责，减少跨角色沟通成本，提升团队协作效率。自定义缺陷提报、流转、修复流程，快速定位问题，闭环跟踪处理，助力产品质量提升。</p>
 <div align="center">
 <img src="./assets/task.png" width="680" alt="项目敏捷看板"><img src="./assets/kanban.png" width="680" alt="项目敏捷看板"><img src="./assets/taskquanxian.png" width="680" alt="项目敏捷看板"><img src="./assets/ui.png" width="680" alt="项目敏捷看板">
@@ -36,8 +36,8 @@
 <img src="./assets/wiki.png" width="680" alt="wiki知识库"><img src="./assets/wikiquanxian.png" width="680" alt="wiki知识库"><img src="./assets/moban.png" width="680" alt="wiki知识库">
 <p style="font-size:14px; color:#666;">研发团队协同沉淀、安全可控的文档协作工具</p>
 </div><br/>
-6. Drawer 共享云盘<br/>
-<p>&emsp;&emsp;面向研发场景的团队集中文件存储，多维权限隔离,多端实时同步查看，支持主流格式在线预览，批量移动、下载、删除、归档，分级权限管控，杜绝内部文件越权访问，文件可一键关联至项目任务。</p>
+6. Drawer 共享云盘:与项目联动的共享文件协作与存储体系<br/>
+<p>&emsp;&emsp;数据存储.共享.协作一站式载体，打破本地存储限制，数据管理更灵活，协作体验更丝滑；全角色协同，版本同步不再乱，全场景适配，跨岗协作无壁垒，全格式支持，各类文档都能看；分级管控，保障全链路资产安全，多端支持，适配全终端访问需求，数据流转更弹性，团队效率直接拉满；与项目联动自动建文件夹，多维度定位文件</p>
 <div align="center">
 <img src="./assets/yunpan.png" width="680" alt="共享云盘"><img src="./assets/yunpanquanxian.png" width="680" alt="共享云盘"><img src="./assets/yunpanxiangmu.png" width="680" alt="共享云盘"><img src="./assets/yunpanshouchang.png" width="680" alt="共享云盘"><img src="./assets/mycreate.png" width="680" alt="共享云盘"><img src="./assets/kapian.png" width="680" alt="共享云盘">
 <p style="font-size:14px; color:#666;">联动项目的安全可控的研发团队文件存储工具</p>
