@@ -1,9 +1,6 @@
-<div align="center">
-<h2 style="font-size:50px; font-weight:bold; color:#166fe5;">AT Work 智能一站式云研发工作台</h2>
-</div>
-<br/>
+<div align="center"><h2 style="font-size:50px; font-weight:bold; color:#166fe5;">AT Work 智能一站式云研发工作台</h2></div><br/>
 当前最新稳定版本：v1.0.0<br/>
-<strong>发布方式：仅Docker离线镜像分发<br/>
+发布方式：仅Docker离线镜像分发<br/>
 开源协议：Apache 2.0<br/>
 [点击前往Realease下载最新镜像](https://www.allthinker.com)<br><br>
 <strong>🌟 项目简介</strong>
