@@ -31,7 +31,7 @@
 <p style="font-size:14px; color:#666;">研发团队协同沉淀、安全可控的文档协作工具</p>
 </div><br/>
 6. Drawer 共享云盘<br/>
-<p>&emsp;&emsp;面向研发场景的团队集中文件存储，多维权限隔离,多端实时同步查看，支持主流格式在线预览，批量移动、下载、删除、归档，分级权限管控，杜绝内部文件越权访问，文件可一键关联至项目任务、AI知识库。</p>
+<p>&emsp;&emsp;面向研发场景的团队集中文件存储，多维权限隔离,多端实时同步查看，支持主流格式在线预览，批量移动、下载、删除、归档，分级权限管控，杜绝内部文件越权访问，文件可一键关联至项目任务。</p>
 <div align="center">
 <img src="./assets/yunpan.png" width="680" alt="共享云盘"><img src="./assets/yunpanquanxian.png" width="680" alt="共享云盘"><img src="./assets/yunpanxiangmu.png" width="680" alt="共享云盘"><img src="./assets/yunpanshouchang.png" width="680" alt="共享云盘"><img src="./assets/mycreate.png" width="680" alt="共享云盘"><img src="./assets/kapian.png" width="680" alt="共享云盘">
 <p style="font-size:14px; color:#666;">联动项目、AI知识库的安全可控的研发团队文件存储工具</p>
