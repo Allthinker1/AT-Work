@@ -19,10 +19,9 @@
 <img src="./assets/shouye.png" width="680"">
 </div><br/>
 3. Coding 云 IDE 编程空间
-<p>&emsp;&emsp;浏览器远程在线开发环境，兼容主流编辑器操作逻辑，预置 12 套 Java/Python/Go/Vue 等全栈模板，秒级搭建开发环境。算力弹性调配，硬件资源可视化监控，数据加密隔离 + 精细化权限管理，网页、PC、手机多端同步编码。</p>
+<p>&emsp;&emsp;浏览器远程在线开发环境，兼容VSCode/IDEA主流编辑器，预置 12 套 Java/Python/Go/Vue 等全栈模板，秒级搭建开发环境。算力弹性调配，硬件资源可视化监控，数据加密隔离 + 精细化权限管理，网页、PC、手机多端同步编码。</p>
 <div align="center">
 <img src="./assets/coding.png" width="680""><img src="./assets/create.png" width="680""><img src="./assets/create2.png" width="680""><img src="./assets/create3.png" width="680"">
-<p style="font-size:14px; color:#666;">一键构建开发环境，兼容VSCode/IDEA操作习惯，内置十余款技术栈模板</p>
 </div><br/>
 4. Task 项目全生命周期协作<br/>
 <p>&emsp;&emsp;覆盖需求管理、迭代规划、任务协同、缺陷闭环的全流程项目工具：需求统一收纳，支持自定义业务 / 产品需求流转工作流，自定义迭代周期、优先级排序，进度百分比可视化展示，拖拽式看板视图，直观同步任务状态，清晰划分成员权责，自定义缺陷流转流程，实现问题提报 - 修复 - 验证全闭环质量管控，平台内部互通，任务可一键关联知识库文档、云盘文件。</p>
