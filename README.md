@@ -24,7 +24,7 @@
 <img src="./assets/coding.png" width="680""><img src="./assets/codingmoban.png" width="680""><img src="./assets/vscode.png" width="680""><img src="./assets/idea.png" width="680"">
 </div><br/>
 4. Task一站式项目全流程高效看板管理工具<br/>
-<p>&emsp;&emsp;覆盖需求管理、迭代规划、任务协同、缺陷闭环的全流程项目工具：需求统一收纳，支持自定义业务 / 产品需求流转工作流，自定义迭代周期、优先级排序，进度百分比可视化展示，拖拽式看板视图，直观同步任务状态，清晰划分成员权责，自定义缺陷流转流程，实现问题提报 - 修复 - 验证全闭环质量管控，平台内部互通，任务可一键关联知识库文档、云盘文件。</p>
+<p>&emsp;&emsp;以可视化能力打通全流程，整合需求、迭代、缺陷管理与任务协同核心功能，让项目推进高效、透明且可控。统一收纳、分级排序需求，清晰对齐目标，避免遗漏与变更混乱，让需求落地有迹可循。规划迭代周期与任务范围，可视化进度追踪，把控版本节奏，保障项目按时高质量交付。实时同步任务状态，明确分工权责，减少跨角色沟通成本，提升团队协作效率。自定义缺陷提报、流转、修复流程，快速定位问题，闭环跟踪处理，助力产品质量提升。</p>
 <div align="center">
 <img src="./assets/task.png" width="680" alt="项目敏捷看板"><img src="./assets/createXiangmu.png" width="680" alt="项目敏捷看板"><img src="./assets/kanban.png" width="680" alt="项目敏捷看板"><img src="./assets/createRenwu.png" width="680" alt="项目敏捷看板"><img src="./assets/createDiedai.png" width="680" alt="项目敏捷看板">
 <p style="font-size:14px; color:#666;">需求、迭代、任务、缺陷一站式敏捷管理，可视化跟踪项目进度</p>
