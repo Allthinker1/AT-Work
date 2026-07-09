@@ -34,7 +34,7 @@
 <p>&emsp;&emsp;轻量级编辑器，支持Markdown、斜红命令、文本选择工具栏、快捷键设置等功能，支持多人实时协作编辑，内容同步高效，协作零滞后，知识沉淀更顺畅，拥有强大检索能力，全文/关键词/分类检索，精准定位，内置丰富文档模板，支持自定义配置，精细化文档权限管控，安全又灵活，并且支持PC、手机APP、小程序多端查看，随时随地查阅协作。</p>
 <div align="center">
 <img src="./assets/wiki.png" width="680" alt="wiki知识库"><img src="./assets/gongjulan.png" width="680" alt="wiki知识库"><img src="./assets/update.png" width="680" alt="wiki知识库">
-<img src="./assets/zhuangtailan.png" width="680" alt="wiki知识库"><img src="./assets/gongjulan.png" width="680" alt="wiki知识库"><img src="./assets/wikimoban.png" width="680" alt="wiki知识库">
+<img src="./assets/zhuangtailan.png" width="680" alt="wiki知识库"><img src="./assets/wikimoban.png" width="680" alt="wiki知识库">
 <img src="./assets/duoduanchakan.png" width="680" alt="wiki知识库"><img src="./assets/wikiquanxian.png" width="680" alt="wiki知识库">
 </div><br/>
 6. Drawer 共享云盘:与项目联动的共享文件协作与存储体系<br/>
