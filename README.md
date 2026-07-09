@@ -6,8 +6,7 @@
 1. 登录与注册
 <div align="center">
 <img src="./assets/login.png" width="680">
-</div>
-<br/>
+</div><br/>
 2. 首页是整个平台的数据概览以及每个功能模块的快捷入口
 <div align="center">
 <img src="./assets/shouye.png" width="680">
