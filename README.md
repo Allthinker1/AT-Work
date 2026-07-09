@@ -6,7 +6,7 @@
 <strong>当前最新稳定版本：</strong><br/>
 <strong>发布方式：仅Docker离线镜像分发</strong><br/>
 <strong>开源协议：Apache 2.0</strong><br/>
-[点击前往Release下载最新镜像](https://www.allthinker.com)
+[点击前往Realease下载最新镜像](https://www.allthinker.com)
 </div>
 <br/>
 <strong>🌟 项目简介</strong>
