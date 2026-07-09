@@ -107,7 +107,8 @@
 
 <strong>📄 版权声明</strong><br/>
 本仓库仅公开Docker 离线镜像分发，不开放项目源代码。<br/>
-本项目遵循 Apache 2.0 开源协议，允许个人、企业免费部署使用，免费版本有License限制，禁止未经授权二次封装、倒卖、商业化重新分发。<br/>
+本项目遵循 Apache 2.0 开源协议，允许个人、企业免费部署使用，免费版本有License数量限制。<br/>
+未经武汉敖行客网络科技有限公司书面授权，禁止对镜像二次封装、倒卖、商业化重新分发。<br/>
 Copyright © 2026 AT Work Team All Rights Reserved。<br/>
 
 <strong>📞 联系我们</strong><br/>
