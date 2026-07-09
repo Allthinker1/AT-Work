@@ -33,8 +33,9 @@
 5. 维库Wiki：团队知识共创、沉淀与传承的核心载体<br/>
 <p>&emsp;&emsp;轻量级编辑器，支持Markdown、斜红命令、文本选择工具栏、快捷键设置等功能，支持多人实时协作编辑，内容同步高效，协作零滞后，知识沉淀更顺畅，拥有强大检索能力，全文/关键词/分类检索，精准定位，内置丰富文档模板，支持自定义配置，精细化文档权限管控，安全又灵活，并且支持PC、手机APP、小程序多端查看，随时随地查阅协作</p>
 <div align="center">
-<img src="./assets/wiki.png" width="680" alt="wiki知识库"><img src="./assets/wikiquanxian.png" width="680" alt="wiki知识库"><img src="./assets/moban.png" width="680" alt="wiki知识库">
-<p style="font-size:14px; color:#666;">研发团队协同沉淀、安全可控的文档协作工具</p>
+<img src="./assets/wiki.png" width="680" alt="wiki知识库"><img src="./assets/gongjulan.png" width="680" alt="wiki知识库"><img src="./assets/update.png" width="680" alt="wiki知识库">
+<img src="./assets/zhuangtailan.png" width="680" alt="wiki知识库"><img src="./assets/gongjulan.png" width="680" alt="wiki知识库"><img src="./assets/wikimoban.png" width="680" alt="wiki知识库">
+<img src="./assets/duoduanchakan.png" width="680" alt="wiki知识库"><img src="./assets/wikiquanxian.png" width="680" alt="wiki知识库">
 </div><br/>
 6. Drawer 共享云盘:与项目联动的共享文件协作与存储体系<br/>
 <p>&emsp;&emsp;数据存储.共享.协作一站式载体，打破本地存储限制，数据管理更灵活，协作体验更丝滑；全角色协同，版本同步不再乱，全场景适配，跨岗协作无壁垒，全格式支持，各类文档都能看；权限分级管控，保障全链路资产安全，多端支持，适配全终端访问需求，数据流转更弹性，团队效率直接拉满；与项目联动自动建文件夹，多维度定位文件。</p>
