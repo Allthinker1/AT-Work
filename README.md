@@ -27,8 +27,8 @@
 <p>&emsp;&emsp;以可视化能力打通全流程，整合需求、迭代、缺陷管理与任务协同核心功能，让项目推进高效、透明且可控。统一收纳、分级排序需求，清晰对齐目标，避免遗漏与变更混乱，让需求落地有迹可循。规划迭代周期与任务范围，可视化进度追踪，把控版本节奏，保障项目按时高质量交付。实时同步任务状态，明确分工权责，减少跨角色沟通成本，提升团队协作效率。自定义缺陷提报、流转、修复流程，快速定位问题，闭环跟踪处理，助力产品质量提升。</p>
 <div align="center">
 <img src="./assets/task.png" width="680" alt="项目敏捷看板"><img src="./assets/kanban.png" width="680" alt="项目敏捷看板"><img src="./assets/taskquanxian.png" width="680" alt="项目敏捷看板"><img src="./assets/ui.png" width="680" alt="项目敏捷看板">
-<div align="center"><img src="./assets/tuozhuai.png" height="200" width="25%"><img src="./assets/kuanjiechuangjian.png" height="25" width="22%"><img src="./assets/sousuo.png" height="200" width="25%"></div>
-<div align="center"><img src="./assets/daochu.png" height="200" width="25%"><img src="./assets/kanbanquanxian.png" height="200" width="25%"><img src="./assets/yidong.png" height="200" width="25%"></div>
+<div align="center"><img src="./assets/tuozhuai.png" height="200" width="23%"><img src="./assets/kuanjiechuangjian.png" height="200" width="23%"><img src="./assets/sousuo.png" height="200" width="23%"></div>
+<div align="center"><img src="./assets/daochu.png" height="200" width="23%"><img src="./assets/kanbanquanxian.png" height="200" width="23%"><img src="./assets/yidong.png" height="200" width="23%"></div>
 </div><br/>
 5. Wiki 知识库<br/>
 <p>&emsp;&emsp;结构化在线协作文档系统，解决知识流失问题,多人实时在线编辑，内置常用文档模板，支持全局检索，文档自动归档、支持历史版本回滚，成员细粒度的权限控制</p>
