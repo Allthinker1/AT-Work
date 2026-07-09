@@ -1,5 +1,5 @@
 <div align="center">
-<h2 style="font-size:50px; font-weight:bold; color:#166fe5;">AT Work 一站式智能云研发平台</h2>
+<h2 style="font-size:50px; font-weight:bold; color:#166fe5;">AT Work 智能一站式云研发工作台</h2>
 </div><br/>
 <div  align="left">
 <strong>当前最新稳定版本：v1.0.0</strong><br/>
