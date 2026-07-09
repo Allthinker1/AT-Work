@@ -30,8 +30,8 @@
 <div align="center"><img src="./assets/tuozhuai.png" height="200" width="23%"><img src="./assets/kuanjiechuangjian.png" height="200" width="23%"><img src="./assets/sousuo.png" height="200" width="23%"></div>
 <div align="center"><img src="./assets/daochu.png" height="200" width="23%"><img src="./assets/kanbanquanxian.png" height="200" width="23%"><img src="./assets/yidong.png" height="200" width="23%"></div>
 </div><br/>
-5. Wiki 知识库<br/>
-<p>&emsp;&emsp;结构化在线协作文档系统，解决知识流失问题,多人实时在线编辑，内置常用文档模板，支持全局检索，文档自动归档、支持历史版本回滚，成员细粒度的权限控制</p>
+5. 维库Wiki：团队知识共创、沉淀与传承的核心载体<br/>
+<p>&emsp;&emsp;轻量级编辑器，支持Markdown、斜红命令、文本选择工具栏、快捷键设置等功能，支持多人实时协作编辑，内容同步高效，协作零滞后，知识沉淀更顺畅，拥有强大检索能力，全文/关键词/分类检索，精准定位，内置丰富文档模板，支持自定义配置，精细化文档权限管控，安全又灵活，并且支持PC、手机APP、小程序多端查看，随时随地查阅协作</p>
 <div align="center">
 <img src="./assets/wiki.png" width="680" alt="wiki知识库"><img src="./assets/wikiquanxian.png" width="680" alt="wiki知识库"><img src="./assets/moban.png" width="680" alt="wiki知识库">
 <p style="font-size:14px; color:#666;">研发团队协同沉淀、安全可控的文档协作工具</p>
