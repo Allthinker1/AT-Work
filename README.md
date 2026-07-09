@@ -18,7 +18,7 @@
 <div align="center">
 <img src="./assets/shouye.png" width="680"">
 </div><br/>
-3. Coding编程空间：随时随地编码 自动构建环境 支持跨平台与多语言云端协作开发
+3. Coding编程空间：随时随地编码，自动构建环境，支持跨平台与多语言云端协作开发
 <p>&emsp;&emsp;浏览器远程在线开发环境，兼容VSCode/IDEA主流编辑器，预置 12 套 Java/Python/Go/Vue 等全栈模板，秒级搭建开发环境。算力弹性调配，硬件资源可视化监控，数据加密隔离 + 精细化权限管理，网页、PC、手机多端同步编码。</p>
 <div align="center">
 <img src="./assets/coding.png" width="680""><img src="./assets/codingmoban.png" width="680""><img src="./assets/vscode.png" width="680""><img src="./assets/idea.png" width="680"">
