@@ -113,4 +113,4 @@ Copyright © 2026 AT Work Team All Rights Reserved。<br/>
 <strong>📞 联系我们</strong><br/>
 如有功能建议、Bug 反馈，欢迎提交 Issues，我们会持续迭代维护新版本镜像。<br/>
 作者：[武汉敖行客网络科技有限公司](https://www.allthinker.com)<br/>
-产品：AT Work 智能一体化云研发平台<br/>
+产品：AT Work 智能一站式云研发工作台
