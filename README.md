@@ -31,7 +31,7 @@
 <div align="center"><img src="./assets/daochu.png" height="200" width="23%"><img src="./assets/kanbanquanxian.png" height="200" width="23%"><img src="./assets/yidong.png" height="200" width="23%"></div>
 </div><br/>
 5. 维库Wiki：团队知识共创、沉淀与传承的核心载体<br/>
-<p>&emsp;&emsp;轻量级编辑器，支持Markdown、斜红命令、文本选择工具栏、快捷键设置等功能，支持多人实时协作编辑，内容同步高效，协作零滞后，知识沉淀更顺畅，拥有强大检索能力，全文/关键词/分类检索，精准定位，内置丰富文档模板，支持自定义配置，精细化文档权限管控，安全又灵活，并且支持PC、手机APP、小程序多端查看，随时随地查阅协作</p>
+<p>&emsp;&emsp;轻量级编辑器，支持Markdown、斜红命令、文本选择工具栏、快捷键设置等功能，支持多人实时协作编辑，内容同步高效，协作零滞后，知识沉淀更顺畅，拥有强大检索能力，全文/关键词/分类检索，精准定位，内置丰富文档模板，支持自定义配置，精细化文档权限管控，安全又灵活，并且支持PC、手机APP、小程序多端查看，随时随地查阅协作。</p>
 <div align="center">
 <img src="./assets/wiki.png" width="680" alt="wiki知识库"><img src="./assets/gongjulan.png" width="680" alt="wiki知识库"><img src="./assets/update.png" width="680" alt="wiki知识库">
 <img src="./assets/zhuangtailan.png" width="680" alt="wiki知识库"><img src="./assets/gongjulan.png" width="680" alt="wiki知识库"><img src="./assets/wikimoban.png" width="680" alt="wiki知识库">
@@ -42,8 +42,8 @@
 <div align="center">
 <img src="./assets/yunpan.png" width="680" alt="共享云盘"><img src="./assets/yunpanquanxian.png" width="680" alt="共享云盘">
 </div><br/>
-7. IM（嗷嗷）即时通讯
-<p>&emsp;&emsp;专为研发场景打造的企业通讯工具，支持单人私聊、多人群组、高清语音、视频远程会议、投屏等功能，支持直接发送项目文档、云盘文件，文件传输防护，并且将完整聊天记录永久留存可审计。</p>
+7. IM嗷嗷：企业级web聊天软件，让团队协作沟通既安全又高效
+<p>&emsp;&emsp;支持私聊与群聊，涵盖文字、图片、语音、文件及音视频通话，具备已读回执、@提醒等协作功能，满足多场景下的高效沟通需求，提供用户、群组、敏感词、消息及操作日志等后台管理模块，实现精细化管控与内容审核，保障系统运行有序与信息安全，通过设备唯一标识绑定账号并记录,登录时比对标识完成设备-账号关联验证，同时集成云盘等工具实现文档平台内流转且，权限同步,管控IM文档下载权限、限制本地存储,确保交档仅线上流转不落地。</p>
 <div align="center">
 <img src="./assets/xiaoxi.png" width="680" alt="即时通讯"><img src="./assets/haoyou.png" width="680" alt="即时通讯"><img src="./assets/qunliao.png" width="680" alt="即时通讯"><img src="./assets/shoucang.png" width="680" alt="即时通讯">
 <p style="font-size:14px; color:#666;">面向研发团队安全高效安全的内部沟通工具</p>
