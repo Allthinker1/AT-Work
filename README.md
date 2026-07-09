@@ -2,12 +2,10 @@
 <h2 style="font-size:50px; font-weight:bold; color:#166fe5;">AT Work 智能一站式云研发工作台</h2>
 </div>
 <br/>
-<div align="left">
 <strong>当前最新稳定版本：</strong><br/>
 <strong>发布方式：仅Docker离线镜像分发</strong><br/>
 <strong>开源协议：Apache 2.0</strong><br/>
 [点击前往Realease下载最新镜像](https://www.allthinker.com)
-</div>
 <br/>
 <strong>🌟 项目简介</strong>
 <p>&emsp;&emsp;AT Work是一款智能一站式云研发平台，实现云原生研发场景的全面智能化革新，重构需求分析、代码开发、项目管控、知识管理、沟通协作五大核心能力，深度融合云IDE、项目协作、共享云盘、维库Wiki、思链AI、嗷嗷IM等数字工具链，形成"需求-设计-开发-测试交付"的智能研发协作闭环。</p>
