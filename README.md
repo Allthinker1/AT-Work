@@ -3,12 +3,13 @@
 发布方式：仅离线镜像分发<br/>
 开源协议：Apache 2.0<br/>
 
+[点击前往Releases下载最新镜像及安装部署手册](https://github.com/Allthinker1/AT-Work/releases/tag/v1.0.0)<br><br>
+
 <strong>✨ 产品核心优势</strong><br/>
 全场景无缝协作：功能互联，覆盖全流程，无需切换工具，高效推进研发各环节。<br/>
 数据与知识安全可控：多层防护保安全，知识可复用传承，避免信息泄露与重复踩坑。<br/>
 效率与灵活度双向提升：加速开发，适配多场景，缩短项目周期、降本、增效、提质。<br/>
 
-[点击前往Releases下载最新镜像及安装部署手册](https://github.com/Allthinker1/AT-Work/releases/tag/v1.0.0)<br><br>
 <strong>🌟 项目简介</strong>
 <p>&emsp;&emsp;AT Work是一款智能一站式云研发平台，实现云原生研发场景的全面智能化革新，重构需求分析、代码开发、项目管控、知识管理、沟通协作五大核心能力，深度融合云IDE、项目协作、共享云盘、维库Wiki、思链AI、嗷嗷IM等数字工具链，形成"需求-设计-开发-测试交付"的智能研发协作闭环。</p>
 <strong>🧩 核心功能模块</strong><br/>
